@@ -1,0 +1,14 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/UsmanHaider15/Natours.git",
+  "author": "Usman Haider <uhaider.bese15seecs@seecs.edu.pk>",
+  "license": "MIT",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
